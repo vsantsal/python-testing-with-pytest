@@ -1,6 +1,6 @@
 from typing import Dict
 
-from tasks.tasks import Task
+from tasks import Task
 
 
 def test_task_has_default_instantiation():
